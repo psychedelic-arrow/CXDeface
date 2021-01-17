@@ -1,4 +1,4 @@
-# MassDeafce
+# MassDeface
 #created by Abhi
 #team_cx
 A simple tool
