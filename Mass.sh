@@ -191,7 +191,7 @@ fi
 
 if [ $apaan = "T" ] || [ $apaan = "t" ]
 then
-cat vul.txt
+cat cx remote.txt
 echo $cyan"["$yellow"B"$cyan"]"$yellow">>>>back"
 read -p "[ b ] " back             
 sh Mass.sh
