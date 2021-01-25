@@ -1,7 +1,7 @@
 # MassDeface
 #created by Abhi
 #team_cx
-A simple tool
+
 
 
 How to install 
