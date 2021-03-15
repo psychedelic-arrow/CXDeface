@@ -1,16 +1,13 @@
-# MassDeface
-#created by Abhi
-#team_cx
+# Webdev Exploit 
 
 
 
-#installation 
 
-  
 
-apt upgrade && apt update -y
+# installation 
 
-pkg install git
+
+pkg install python
 
 pkg install python2
 
@@ -20,13 +17,12 @@ pkg install curl
 
 pkg install toilet
 
-•Then How to run ~~
+•run ~
 
 cd MassDeface
 
-ls 
 chmod +x MassDeface
-ls 
+
 sh MassDefacs.sh
 
 
